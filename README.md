@@ -60,6 +60,9 @@ Predict telecom customer churn using machine learning. The goal is to identify a
 3. Open `customer_churn.ipynb` in Jupyter Notebook
 4. Run all cells
 
+- **Source:**
+- [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
 ## Author
 
 **Anuj Singh Bhardwaj**
